@@ -1,0 +1,14 @@
+http://www.exampleeee.com
+http://www.github.com
+http://www.youtube.com
+http://www.amazon.com
+http://www.microsoft.com
+http://www.facebook.com
+http://www.vk.com
+http://www.twitter.com
+http://www.instagram.com
+http://www.typesafe.com
+http://www.ebay.com
+http://www.bitworks-software.com
+https://mail.google.com/folder/page.html
+http://www.google.com/
