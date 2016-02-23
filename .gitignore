@@ -1,0 +1,5 @@
+.idea/*
+LICENSE
+project/target/*
+results.csv
+target/*
